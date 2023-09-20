@@ -1,2 +1,1 @@
-# hares nuzzle
- 
+Hares will now nuzzle you every 12 hours.
