@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>ocarina.nuzzle</packageId>
+    <name>Hares Nuzzle</name>
+    <author>ocarina</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <description>Hares nuzzle.</description>
+</ModMetaData>
